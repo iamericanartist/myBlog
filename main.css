@@ -1,0 +1,24 @@
+/* all elements */
+* {
+	background-color: #aaa;
+}
+.header {
+	background: #555;
+}
+
+h1 {
+	color: #135
+	margin: 5px 2px ;
+
+}
+
+h3 {
+	color: #365;
+	margin: 2em;
+
+}
+
+body {
+	margin-left: 2em;
+	width: 80%
+}
